@@ -232,7 +232,6 @@ body {
 
 .card_title {
   box-sizing: border-box;
-  width: 100%;
   position: absolute;
   width: 254px;
   height: 82px;
@@ -361,7 +360,6 @@ body {
   margin-top: 1px;
   display: flex;
   flex-direction: column;
-  list-style: circle;
   text-align: center;
   list-style: none;
   line-height: 21.13px;
