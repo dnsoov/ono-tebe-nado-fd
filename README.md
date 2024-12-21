@@ -1,1 +1,1 @@
-https://github.com/dnsoov/ono-tebe-nado
+https://github.com/dnsoov/ono-tebe-nado-fd
